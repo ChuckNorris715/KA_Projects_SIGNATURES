@@ -38,7 +38,7 @@ echo "
                                                 <td valign=\"top\" align=\"center\" style=\"padding:5px 0px;\">
                                                     <table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"left\">
                                                         <tr>
-                                                            <td height=\"1\" style=\"height:1px;font-size:0px;line-height:0px;\" bgcolor=\"#E8E6DFG\"></td>
+                                                            <td height=\"1\" style=\"height:1px;font-size:0px;line-height:0px;\" bgcolor=\"#E8E6DF\"></td>
                                                         </tr>
                                                     </table>
                                                 </td>
